@@ -38,3 +38,5 @@ group :test do
   gem 'launchy'
   gem 'selenium-webdriver'
 end
+
+gem 'nokogiri', '~> 1.6', '>= 1.6.8.1'
