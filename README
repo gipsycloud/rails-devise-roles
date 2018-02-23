@@ -5,3 +5,9 @@ This application was generated with the rails_apps_composer gem:
 https://github.com/RailsApps/rails_apps_composer
 provided by the RailsApps Project:
 http://railsapps.github.io/
+
+- ruby  2.2.2
+- rails 5.0.0
+- user  registration
+- user  signup
+- user  signin
